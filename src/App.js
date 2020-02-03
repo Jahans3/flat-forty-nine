@@ -27,6 +27,16 @@ function App() {
               Shopping list
             </a>
           </li>
+          <li>
+            <a href="#" className="App-link">
+              Guest Book
+            </a>
+          </li>
+          <li>
+            <a href="#" className="App-link">
+              Events
+            </a>
+          </li>
         </ul>
       </header>
     </div>
