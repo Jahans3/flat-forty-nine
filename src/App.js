@@ -7,17 +7,27 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Flat 49 Imperial Wharf
         </a>
+        <br/>
+        <ul style={{ textAlign: 'left' }}>
+          <li>
+            <a href="#" className="App-link">
+              Leave passive aggressive note
+            </a>
+          </li>
+          <li>
+            <a href="#" className="App-link">
+              Shopping list
+            </a>
+          </li>
+        </ul>
       </header>
     </div>
   );
